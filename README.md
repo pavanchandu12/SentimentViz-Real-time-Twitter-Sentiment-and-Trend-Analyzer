@@ -12,7 +12,7 @@ Pulls random tweets and hashtags from MySQL
 
 Publishes data to Kafka topics (tweets, hashtags, top_tweets, top_hashtags)
 
-2) Spark streaming consumer that:
+2)_Spark streaming consumer that:
 
 Subscribes to a chosen Kafka topic
 
